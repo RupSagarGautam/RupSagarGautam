@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Django for Back-end Development
 - 💞️ I’m looking to collaborate on E-Learning Website Project for Nepal (Non-Profit Project).
 - 📫 How to reach me through Linkedin (Rup Sagar Gautam)
-
+- 💻 Searching for Internship in Kathmandu, Nepal
 
 
 <!---
