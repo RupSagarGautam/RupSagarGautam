@@ -6,6 +6,9 @@
 - 💻 Searching for Internship in Kathmandu, Nepal
 ## STATUS: - Currently Inactive🔴 
 ### Reason: - Due to Assessments and On Going Examinations 📃
+#### Updating Portfolio Site: - Added Photography Project Page
+#### Visit: - 
+https://www.rupsagargautam.com.np/src/Photoshop.html
 
 <!---
 RupSagarGautam/RupSagarGautam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
