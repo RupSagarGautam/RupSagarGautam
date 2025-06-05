@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on E-Learning Website Project for Nepal (Non-Profit Project).
 - 📫 How to reach me through Linkedin (Rup Sagar Gautam)
 - 💻 Searching for Internship in Kathmandu, Nepal
-## STATUS: - Currently Inactive🔴 
-### Reason: - Due to Assessments and On Going Examinations 📃
+### STATUS: - Active🟢 
+###### ~
 #### Updating Portfolio Site: - Added Photography Project Page
 #### Visit: - https://www.rupsagargautam.com.np/src/Photoshop.html
 
