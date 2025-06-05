@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning Django for Back-end Development
 - 💞️ I’m looking to collaborate on E-Learning Website Project for Nepal (Non-Profit Project).
 - 📫 How to reach me through Linkedin (Rup Sagar Gautam)
-- 💻 Searching for Internship in Kathmandu, Nepal
+- 💻 Searching for Internship in East Nepal
 ### STATUS: - Active🟢 
-###### ~
+###### ____________________
 #### Updating Portfolio Site: - Added Photography Project Page
 #### Visit: - https://www.rupsagargautam.com.np/src/Photoshop.html
 
