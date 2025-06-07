@@ -31,9 +31,9 @@ I'm a passionate **Full Stack Developer** with expertise in web and mobile appli
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?logo=javascript&logoColor=black)
 
 ### 🔧 Backend Development
-
+![Python](https://camo.githubusercontent.com/98aafba6c575de1106fda19d6584797f35546496ba8d1915609d07ecdc51f268/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d2532333337373641423f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465)
 ![Java](https://img.shields.io/badge/java-007396?logo=java&logoColor=white)
 
 ---
 
-> 🔗 **More about me**: [My Portfolio](https://rupsagargautam.com.np)
+> 🔗 **More about me**: [My Portfolio](https://www.rupsagargautam.com.np)
