@@ -8,7 +8,7 @@
 ###### ____________________
 #### Updating Portfolio 
 #### Learning New Technologies
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=UI%2FUX+Developer;Web+Developer;Graphics+Designer;Photographer;Production+Manager)](https://git.io/typing-svg)
 
 
 <!---
