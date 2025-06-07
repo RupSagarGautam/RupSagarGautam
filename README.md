@@ -1,4 +1,4 @@
-<h1 align="center">SUJAN SUBEDI</h1>
+<h1 align="center">Rup Sagar Gautam</h1>
 <h3 align="center">Full Stack Developer</h3>
 
 ---
