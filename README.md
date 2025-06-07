@@ -4,6 +4,8 @@
 ---
 
 ## 🌐 Web Development
+### I am a passionate
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=UI%2FUX+Developer;Web+Developer;Graphics+Designer;Photographer;Production+Manager)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rup-sagar-gautam"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" /></a>
