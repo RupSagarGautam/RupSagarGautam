@@ -6,8 +6,9 @@
 - 💻 Searching for Internship in East Nepal
 ### STATUS: - Active🟢 
 ###### ____________________
-#### Updating Portfolio Site: - Added Photography Project Page
-#### Visit: - https://www.rupsagargautam.com.np/src/Photoshop.html
+#### Updating Portfolio 
+#### Learning New Technologies
+
 
 
 <!---
