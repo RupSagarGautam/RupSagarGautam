@@ -4,7 +4,7 @@
 
 ###
 
-<img align="right" height="200" src="https://www.rupsagargautam.com.np/assets/Photography/Picture%205.JPG"  />
+<img align="right" height="400" style=" transform: Scale(5)" src="https://www.rupsagargautam.com.np/assets/Photography/Picture%205.JPG"  />
 
 ###
 
