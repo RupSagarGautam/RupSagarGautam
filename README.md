@@ -4,7 +4,7 @@
 
 ###
 
-<img align="right" height="200" src="https://scontent.fktm12-1.fna.fbcdn.net/v/t39.30808-1/450551615_1730348411120423_6313172478523122525_n.jpg?stp=c169.483.1034.1034a_dst-jpg_s200x200_tt6&_nc_cat=109&ccb=1-7&_nc_sid=e99d92&_nc_ohc=gjcKi7VL1kkQ7kNvwHzibZH&_nc_oc=Adm-0HoXLI7wXczJUuCB3a2u9LqtdllemaKF0ycJe6gUum6rodd63OtQRf_zbCtCtLQ&_nc_zt=24&_nc_ht=scontent.fktm12-1.fna&_nc_gid=67RvKxtafaos_LfttvIHBw&oh=00_AfOnvBnLhY3z2GJUK2HrFaRTaL5UjUid2GOuCKrlNb2UIQ&oe=684C64AA"  />
+<img align="right" height="200" src="https://www.rupsagargautam.com.np/assets/Photography/Picture%205.JPG"  />
 
 ###
 
