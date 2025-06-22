@@ -2,7 +2,7 @@ name: 🎵 Update Spotify Track
 
 on:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "*/30 * * * *"  # every 30 minutes
   workflow_dispatch:
 
 jobs:
@@ -26,7 +26,7 @@ jobs:
           SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
         run: node spotify.js
 
-      - name: Commit changes
+      - name: Commit & Push
         run: |
           git config user.name "RupSagarGautam"
           git config user.email "rupsagargautam@gmail.com"
