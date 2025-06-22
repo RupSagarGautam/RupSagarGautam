@@ -43,11 +43,10 @@ async function getRecentlyPlayed(accessToken) {
     const artist = track.track.artists.map((a) => a.name).join(", ");
     const link = track.track.external_urls.spotify;
 
-    const content = `### 🎵 Recently Played  
-[${song} — ${artist}](${link})`;
+    const content = `### 🎵 Recently Played\n[${song} — ${artist}](${link})`;
 
     fs.writeFileSync("README.md", content);
-  } catch (error) {
-    console.error("Error updating Spotify track:", error);
+  } catch (err) {
+    console.error("Error updating README:", err);
   }
 })();
