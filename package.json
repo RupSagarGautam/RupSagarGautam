@@ -1,0 +1,12 @@
+{
+  "name": "spotify-github-readme",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "spotify.js",
+  "scripts": {
+    "start": "node spotify.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
