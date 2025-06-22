@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">Full Stack Developer | Graphics Designer | Esports Manager</h3>
+<h3 align="left">Django Developer | Graphics Designer | Esports Manager</h3>
 
 ###
 
