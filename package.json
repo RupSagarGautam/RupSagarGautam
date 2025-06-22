@@ -1,11 +1,8 @@
 {
-  "name": "spotify-github-readme",
+  "name": "spotify-readme-updater",
   "version": "1.0.0",
-  "type": "module",
   "main": "spotify.js",
-  "scripts": {
-    "start": "node spotify.js"
-  },
+  "type": "module",
   "dependencies": {
     "node-fetch": "^2.6.1"
   }
