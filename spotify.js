@@ -1,5 +1,5 @@
-const fs = require("fs");
-const fetch = require("node-fetch");
+import fs from "fs";
+import fetch from "node-fetch";
 
 const CLIENT_ID = process.env.SPOTIFY_CLIENT_ID;
 const CLIENT_SECRET = process.env.SPOTIFY_CLIENT_SECRET;
@@ -34,7 +34,7 @@ async function getRecentlyPlayed(accessToken) {
   return json.items[0];
 }
 
-(async () => {
+const run = async () => {
   try {
     const token = await getAccessToken();
     const track = await getRecentlyPlayed(token);
@@ -46,7 +46,10 @@ async function getRecentlyPlayed(accessToken) {
     const content = `### 🎵 Recently Played\n[${song} — ${artist}](${link})`;
 
     fs.writeFileSync("README.md", content);
+    console.log("✅ README updated with Spotify track!");
   } catch (err) {
-    console.error("Error updating README:", err);
+    console.error("❌ Failed to update README:", err);
   }
-})();
+};
+
+run();
