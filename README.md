@@ -1,4 +1,4 @@
-<img align="right" height="400" src="https://www.rupsagargautam.com.np/assets/Photography/Picture%205.JPG"  />
+<img align="right" height="400" float="right" src="https://www.rupsagargautam.com.np/assets/Photography/Picture%205.JPG"  />
 
 ###
 
@@ -126,18 +126,16 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31m6oztff2yr2ah3556n3wiin6mq&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31m6oztff2yr2ah3556n3wiin6mq&redirect=true)
 
-###
+
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=RupSagarGautam.RupSagarGautam&left_color=blueviolet&right_color=brown&left_text=Profile%20Visitors"  />
 </div>
 
-###
+
 
 <br clear="both">
 
 <h2 align="center"></h2>
 
-###
 
-###
