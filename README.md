@@ -127,7 +127,6 @@
 
 ###
 
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=RupSagarGautam.RupSagarGautam&left_color=blueviolet&right_color=brown&left_text=Profile%20Visitors"  />
 </div>
@@ -139,7 +138,5 @@
 <h2 align="center"></h2>
 
 ###
-
-<img src="https://raw.githubusercontent.com/RupSagarGautam/RupSagarGautam/output/snake.svg" alt="Snake animation" />
 
 ###
