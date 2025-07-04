@@ -110,6 +110,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RupSagarGautam&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://camo.githubusercontent.com/0450acd85d1ddc7763a5ff301abed0ae04585c27c22516f7e6b025e1a5458a01/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d3f757365723d527570536167617247617574616d266c6f63616c653d656e266d6f64653d7765656b6c79267468656d653d64726163756c6126686964655f626f726465723d66616c736526626f726465725f7261646975733d35266f726465723d33" alt="Streaks" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RupSagarGautam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=RupSagarGautam&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RupSagarGautam&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
